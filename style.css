@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://img.freepik.com/free-photo/galactic-night-sky-astronomy-science-combined-generative-ai_188544-9656.jpg");
+    color: white;
+    text-align: center;
+}
+
+.cuadro1{
+
+    border-color: white;
+    padding: 1%;
+    
+    background-color: rgba(250, 235, 215, 0.233);
+    
+
+}
+
+.cuadro2{
+    border-color: white;
+    padding: 10;
+    background-color: rgba(250, 235, 215, 0.233);
+
+}
+
+.cuadro3{
+
+    border-color: white;
+    padding: 10;
+    background-color: rgba(250, 235, 215, 0.233);
+}
